@@ -4,10 +4,12 @@
             align-items: center;
             border: 2px solid rgb(182, 180, 180);
             background-color: rgb(182, 180, 180);
+			
+            width: 500px;
+			padding: 20px;
+			
             display: flex;
             flex-direction: column;
-            width: 500px;
-            padding: 20px;
 			box-shadow: 2px 2px;
         }
         .btn{
