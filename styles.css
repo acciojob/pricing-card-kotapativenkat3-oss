@@ -8,6 +8,7 @@
             flex-direction: column;
             width: 500px;
             padding: 20px;
+			box-shadow: 2px 2px;
         }
         .btn{
             padding: 10px;
@@ -15,3 +16,6 @@
             border-radius: 10px;
             background-color: rgb(237, 73, 73);
         }
+img{
+	width: 300px;
+}
